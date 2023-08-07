@@ -2,7 +2,7 @@
 <h3 align="center">Biomedical Engineer specialized in medical image processing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosgaspar32&label=Profile%20views&color=0e75b6&style=flat" alt="carlosgaspar32" /> </p>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="MedicalImage.jpg" alt="medical imaging" height = "350px"/></div>
 - 🔭 I’m currently working on **Graphical Interface of Medical Images**
 
