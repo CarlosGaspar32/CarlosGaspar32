@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/carlos-emilio-gaspar-ortiz-310441245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-emilio-gaspar-ortiz-310441245" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/335325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="335325" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cgaspar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cgaspar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/carlosgasp32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="carlosgasp32" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
