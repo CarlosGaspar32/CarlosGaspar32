@@ -2,16 +2,16 @@
 <h3 align="center">Biomedical Engineer specialized in medical image processing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosgaspar32&label=Profile%20views&color=0e75b6&style=flat" alt="carlosgaspar32" /> </p>
-<div><img src="MedicalImage.jpg" alt="medical imaging"/></div>
+<div><img src="MedicalImage.jpg" alt="medical imaging" height = "300px"/></div>
 - 🔭 I’m currently working on **Graphical Interface of Medical Images**
 
 - 🌱 I’m currently learning **Tensorflow**
 
 - 👯 I’m looking to collaborate on **Imaging Projects**
 
-- 💬 Ask me about **MATLAB, Arduino C/C++**
+- 💬 Ask me about **MATLAB, Arduino C/C++ and Radiology**
 
-- 📫 How to reach me **103396576+CarlosGaspar32@users.noreply.github.com**
+- 📫 How to reach me **carlosgasparortiz123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
