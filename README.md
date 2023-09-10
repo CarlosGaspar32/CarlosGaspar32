@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emilio Gaspar</h1>
-<h3 align="center">Biomedical Engineer specialized in medical image processing</h3>
+<h3 align="center">Biomedical Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosgaspar32&label=Profile%20views&color=0e75b6&style=flat" alt="carlosgaspar32" /> </p>
 <div style="display: flex; justify-content: center; align-items: center;">
